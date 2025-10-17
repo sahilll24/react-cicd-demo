@@ -7,7 +7,7 @@ function App() {
     <div style={{ textAlign: "center", marginTop: "50px" }}>
       <h1>Hello, CI/CD Demo!</h1>
       <p>This is a simple React Vite app.</p>
-      <p>Sahil mahesh saykar</p>
+      <p>Devops engineer | By sahil saykar</p>
     </div>
   );
 }
